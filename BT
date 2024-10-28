@@ -1,0 +1,22 @@
+chmod 777 xynbxm/rc1
+chmod 777 xynbxm/rc2
+chmod 777 xynbxm/rc3
+chmod 777 xynbxm/rc4
+chmod 777 xynbxm/rc5
+chmod 777 xynbxm/rc6
+chmod 777 xynbxm/rc7
+chmod 777 xynbxm/quickbms
+chmod 777 xynbxm/打包.bms
+chmod 777 xynbxm/解包.bms
+chmod +x xynbxm/rc1
+chmod +x xynbxm/rc2
+chmod +x xynbxm/rc3
+chmod +x xynbxm/rc4
+chmod +x xynbxm/rc5
+chmod +x xynbxm/rc6
+chmod +x xynbxm/rc7
+chmod +x xynbxm/quickbms
+chmod +x xynbxm/打包.bms
+chmod +x xynbxm/解包.bms
+
+bash xynbxm/rc7
